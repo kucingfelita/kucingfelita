@@ -58,6 +58,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kucingfelita&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  
 </div>
 
 ###
@@ -71,9 +72,9 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Felita">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Felita&count=1&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/Felitaa">
   </a>
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31i3bsrd47tvzgacpcesssro4tqe)
 </div>
 
 ###
