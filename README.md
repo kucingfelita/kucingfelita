@@ -70,6 +70,8 @@
 </picture>
 
 ###
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31i3bsrd47tvzgacpcesssro4tqe)
+###
 
 <div align="left" style="display: flex; justify-content: space-between">
   <a href="https://www.youtube.com/@VanDeMorp" target="_blank">
