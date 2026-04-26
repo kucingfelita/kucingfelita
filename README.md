@@ -71,14 +71,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Felitaa">
-  </a>
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31i3bsrd47tvzgacpcesssro4tqe)
-</div>
-
-###
-
 <div align="left" style="display: flex; justify-content: space-between">
   <a href="https://www.youtube.com/@VanDeMorp" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
