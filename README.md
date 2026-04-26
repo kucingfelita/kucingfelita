@@ -70,10 +70,10 @@
 </picture>
 
 ###
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31i3bsrd47tvzgacpcesssro4tqe)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31i3bsrd47tvzgacpcesssro4tqe&count=1)
 ###
 
-<div align="left" style="display: flex; justify-content: space-between">
+<div align="left" style="display: flex;">
   <a href="https://www.youtube.com/@VanDeMorp" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
